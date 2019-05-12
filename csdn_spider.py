@@ -2,8 +2,8 @@ import time
 
 from selenium import webdriver
 
-telephone = "15755407860"
-password = "13866015127rbs"
+telephone = "XXXXXXXX"
+password = "XXXXXXXX"
 
 
 class SpiderCsdn:
