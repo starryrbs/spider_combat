@@ -30,7 +30,7 @@ Jinja2==2.10
 kiwisolver==1.0.1
 llvmlite==0.28.0
 logparser==0.8.0
-lxml==4.3.1
+lxml==4.6.2
 MarkupSafe==1.0
 matplotlib==3.0.3
 motor==2.0.0
