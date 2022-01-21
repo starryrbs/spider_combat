@@ -22,7 +22,7 @@ Flask-Compress==1.4.0
 hyperlink==18.0.0
 idna==2.8
 incremental==17.5.0
-ipython==7.3.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==0.24
 jedi==0.13.3
